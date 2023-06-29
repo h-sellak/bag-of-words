@@ -22,15 +22,15 @@ To get started with the Bag of Words Model, follow these steps:
 
 1. Clone the repository:
 
-  `git clone https://github.com/h-sellak/bag-of-words.git`
+`git clone https://github.com/h-sellak/bag-of-words.git`
 
 2. Install the required dependencies. You can use pip to install the necessary libraries:
 
-   `pip install -r requirements.txt`
+`pip install -r requirements.txt`
 
 3. Launch the Jupyter notebook:
 
-  `jupyter notebook bag-of-words.ipynb`
+`jupyter notebook bag-of-words.ipynb`
 
 4. Follow the instructions provided in the notebook to learn about the Bag of Words Model, its implementation, and how to apply it to your own text data.
 
